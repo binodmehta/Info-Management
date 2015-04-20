@@ -1,0 +1,18 @@
+2.SELECT o.`furniture#` , o.`startDateTime` 
+  FROM (`ORDER` o
+  JOIN `EMPLOYEE` e ON o.`employee#` = e.`employee#`)
+  WHERE fName = 'Herry' AND lName = 'White'
+3.SELECT o.`startDateTime` , SUM( quantity ) 
+ FROM (`ORDER` o JOIN `EMPLOYEE` e ON o.`employee#` = e.`employee#`)
+ WHERE fName = 'Herry' AND lName = 'White'
+
+4.SELECT m.`member#` , m.`fName` , m.`lName` , o.`startDateTime` ,SUM(quantity ) 
+  FROM (`ORDER` o JOIN `MEMBER` m ON o.`member#` = m.`member#`)
+  WHERE o.`quantity` >=2
+  GROUP BY 'member#'
+  ORDER BY 'member#', 'startDateTime'
+
+5.SELECT f.`furniture#` , f.`brand` , f.`type` , f.`stock` 
+  FROM (`ORDER` o JOIN `FURNITURE` f ON o.`furniture#` = f.`furniture#`)
+  GROUP BY 'furniture#'
+  HAVING f.`stock` >=10 

@@ -1,0 +1,61 @@
+U:\RentMe\RentMe\bin\Debug\RentMe.exe.config
+U:\RentMe\RentMe\obj\Debug\RentMe.Properties.Resources.resources
+U:\RentMe\RentMe\obj\Debug\RentMe.csproj.GenerateResource.Cache
+U:\RentMe\RentMe\bin\Debug\RentMe.exe
+U:\RentMe\RentMe\bin\Debug\RentMe.pdb
+U:\RentMe\RentMe\bin\Debug\MySql.Data.dll
+U:\RentMe\RentMe\obj\Debug\RentMe.exe
+U:\RentMe\RentMe\obj\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\bin\Debug\RentMe.exe.config
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\obj\Debug\RentMe.exe
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\obj\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\bin\Debug\RentMe.exe
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\bin\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\bin\Debug\MySql.Data.dll
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\obj\Debug\RentMe.csprojResolveAssemblyReference.cache
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\obj\Debug\RentMe.Properties.Resources.resources
+C:\Users\dstamps1\Desktop\old\Repo\Current Project\RentMe\obj\Debug\RentMe.csproj.GenerateResource.Cache
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\bin\Debug\RentMe.exe.config
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\obj\Debug\RentMe.exe
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\obj\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\bin\Debug\RentMe.exe
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\bin\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\bin\Debug\MySql.Data.dll
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\obj\Debug\RentMe.csprojResolveAssemblyReference.cache
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\obj\Debug\RentMe.Properties.Resources.resources
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\obj\Debug\RentMe.csproj.GenerateResource.Cache
+C:\Users\dstamps1\Desktop\RentMe Repo\Current Project\RentMe\obj\Debug\view.mainForm.resources
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\bin\Debug\RentMe.exe.config
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\bin\Debug\RentMe.exe
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\bin\Debug\RentMe.pdb
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\bin\Debug\MySql.Data.dll
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.Properties.Resources.resources
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\obj\Debug\view.mainForm.resources
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.exe
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.pdb
+C:\Users\Daniel\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.csprojResolveAssemblyReference.cache
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\bin\Debug\RentMe.exe.config
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\obj\Debug\RentMe.exe
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\obj\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\bin\Debug\RentMe.exe
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\bin\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\bin\Debug\MySql.Data.dll
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\obj\Debug\RentMe.csprojResolveAssemblyReference.cache
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\obj\Debug\RentMe.Properties.Resources.resources
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\obj\Debug\view.mainForm.resources
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\obj\Debug\RentMe.csproj.GenerateResource.Cache
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\bin\Debug\RentMe.exe.config
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.exe
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\bin\Debug\RentMe.exe
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\bin\Debug\RentMe.pdb
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\bin\Debug\MySql.Data.dll
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.csprojResolveAssemblyReference.cache
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.Properties.Resources.resources
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\obj\Debug\view.mainForm.resources
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\obj\Debug\RentMe.csproj.GenerateResource.Cache
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\obj\Debug\view.AdminForm.resources
+C:\Users\dstamps1\Desktop\pj\Current Project\RentMe\obj\Debug\view.LoginForm.resources
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\obj\Debug\view.AdminForm.resources
+C:\Users\dstamps1\Desktop\project\Current Project\RentMe\obj\Debug\view.LoginForm.resources
